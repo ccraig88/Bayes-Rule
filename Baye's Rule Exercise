@@ -1,0 +1,7 @@
+Be positive: Probability of positive result given disease status is unknown. .98*.005 + .1*.995 = .10
+
+Correctly diagnose a sufferer: .98
+
+Correctly identify a non-sufferer: .90
+
+Misclassify the person: 1-(.98*.005 + .9*.995)=.0996
